@@ -6,7 +6,7 @@ $(document).ready(function() {
       var picWidth = Math.floor(width/2)
       var picHeight = Math.floor(picWidth * 1.6)
       var marginLeft = Math.floor((width - picWidth)/2);
-      $("<img src='pics/dan.jpg' id='mobile'></div>").insertAfter("#after")
+      $("<img src='pics/johannes.jpg' id='mobile'></div>").insertAfter("#after")
       $("#mobile").width(picWidth)
       $("#mobile").height(picHeight)
       //alert(picHeight)
